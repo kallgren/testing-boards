@@ -1,0 +1,142 @@
+** Drc report for /Users/robert.kallgren/Downloads/Sweep modified no TRRS, reset, puck, crab, text/Sweepv2.1-custom-minimal/sweepv2.1.kicad_pcb **
+** Created on 2022-04-01 13:16:25 **
+
+** Found 32 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(218.8680 mm, 65.4380 mm): Track [Switch2] on F.Cu, length 0.2680 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(217.8364 mm, 48.8164 mm): Track [Switch4] on F.Cu, length 0.0007 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(213.3590 mm, 59.7490 mm): Track [Switch10] on B.Cu, length 0.1838 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(237.7146 mm, 68.3260 mm): Track [Switch12] on F.Cu, length 0.2748 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(202.4960 mm, 74.3640 mm): Track [Switch12] on F.Cu, length 0.1160 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(225.3360 mm, 92.9724 mm): Track [Switch17] on F.Cu, length 0.0295 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(59.5849 mm, 67.1903 mm): Track [Switch14_r] on F.Cu, length 0.0096 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(52.3240 mm, 63.5000 mm): Track [Switch1_r] on F.Cu, length 0.0000 mm
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(222.0400 mm, 50.8771 mm): Line on Edge.Cuts
+    @(230.1280 mm, 50.6140 mm): Footprint Text 'MicroUSB' of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(218.1604 mm, 79.5361 mm): Arc on Edge.Cuts
+    @(239.0780 mm, 84.3140 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(237.9380 mm, 51.6271 mm): Arc on Edge.Cuts
+    @(239.0780 mm, 51.2640 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(129.3495 mm, 48.7680 mm): Line on Edge.Cuts
+    @(130.3020 mm, 48.3870 mm): Arc on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(129.3495 mm, 53.8480 mm): Line on Edge.Cuts
+    @(130.3020 mm, 54.2290 mm): Arc on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(129.3495 mm, 77.7240 mm): Line on Edge.Cuts
+    @(130.3020 mm, 78.1050 mm): Arc on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(129.3495 mm, 72.6440 mm): Line on Edge.Cuts
+    @(130.3020 mm, 72.2630 mm): Arc on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(22.5420 mm, 50.8771 mm): Line on Edge.Cuts
+    @(30.2760 mm, 50.6140 mm): Footprint Text 'MicroUSB' of U2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(22.5420 mm, 51.6271 mm): Arc on Edge.Cuts
+    @(21.4260 mm, 51.2640 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(40.8528 mm, 80.2636 mm): Arc on Edge.Cuts
+    @(21.4260 mm, 84.3140 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(30.4800 mm, 52.8160 mm): Reference 'SW_POWER1'
+    @(26.7800 mm, 52.7160 mm): Pad 0 [<no net>] of SW_POWER1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(30.4800 mm, 52.8160 mm): Reference 'SW_POWER1'
+    @(34.1800 mm, 52.7160 mm): Pad 0 [<no net>] of SW_POWER1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(30.4800 mm, 52.8160 mm): Reference 'SW_POWER1'
+    @(31.9800 mm, 53.8160 mm): Through hole pad [<no net>] of SW_POWER1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(230.1240 mm, 52.8160 mm): Reference 'SW_POWERR1'
+    @(233.8240 mm, 52.7160 mm): Pad 0 [<no net>] of SW_POWERR1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(230.1240 mm, 52.8160 mm): Reference 'SW_POWERR1'
+    @(228.6240 mm, 53.8160 mm): Through hole pad [<no net>] of SW_POWERR1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(230.1240 mm, 52.8160 mm): Reference 'SW_POWERR1'
+    @(226.4240 mm, 52.7160 mm): Pad 0 [<no net>] of SW_POWERR1 on B.Cu
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(37.9374 mm, 55.0860 mm): Through hole pad 1 [Switch10_r] of U2
+    @(36.0680 mm, 54.4830 mm): Reference 'BatGND4'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(222.5694 mm, 55.0860 mm): Through hole pad 24 [raw] of U1
+    @(224.2820 mm, 54.4510 mm): Reference 'BatGND1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(224.5080 mm, 55.0440 mm): Footprint Text 'RAW' of U1
+    @(224.2820 mm, 54.4510 mm): Reference 'BatGND1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(237.7894 mm, 55.0860 mm): Through hole pad 1 [Switch10] of U1
+    @(235.9660 mm, 54.4510 mm): Reference 'Bat+r1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(24.6380 mm, 54.4830 mm): Reference 'Bat+1'
+    @(24.6080 mm, 54.9910 mm): PCB Text 'RAW' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(24.6380 mm, 54.4830 mm): Reference 'Bat+1'
+    @(22.7174 mm, 55.0860 mm): Through hole pad 24 [raw] of U2
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(234.9660 mm, 53.8000 mm): Line on B.Silkscreen
+    @(230.1240 mm, 52.8160 mm): Reference 'SW_POWERR1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(225.2820 mm, 51.8000 mm): Line on B.Silkscreen
+    @(230.1240 mm, 52.8160 mm): Reference 'SW_POWERR1'
+
+** Found 3 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(115.7320 mm, 53.1820 mm): Through hole pad 2 [gnd] of SW2_r1
+    @(134.8560 mm, 53.1820 mm): Through hole pad 2 [gnd] of SW2
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(22.7174 mm, 62.7060 mm): Through hole pad 21 [vcc] of U2
+    @(222.5694 mm, 62.7060 mm): Through hole pad 21 [vcc] of U1
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(32.7300 mm, 55.8910 mm): Track [raw] on B.Cu, length 0.1750 mm
+    @(222.5694 mm, 55.0860 mm): Track [raw] on B.Cu, length 5.0544 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
